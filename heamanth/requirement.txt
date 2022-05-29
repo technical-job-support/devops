@@ -1,0 +1,11 @@
+Tool Name - Gitlab 
+Module - Pipeline (yaml)
+
+Write a Yaml file which would do following...
+
+Step - 1 Clone git repo
+Step - 2 Rename Some folder in D Drive
+Step - 3 Copy Git src to to D Drive?
+Step - 4 SonarQube Integ
+Step - 5 Same folder which is in D drive to Nexus Integ
+Step - 6 Run SonarQube Analysis
